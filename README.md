@@ -21,9 +21,9 @@ The model was compiled using the categorical cross-entropy loss function, Adam o
 **Results and Discussion:**
 
 The model achieved an accuracy of X% on the test dataset. The precision, recall, and F1-score for each class were as follows:
-- Covid-19 Positive: Precision = X%, Recall = X%, F1-score = X%
-- Covid-19 Negative: Precision = X%, Recall = X%, F1-score = X%
-- Virus: Precision = X%, Recall = X%, F1-score = X%
+- Covid-19 Positive: Precision
+- Covid-19 Negative: Precision 
+- Virus: Precision
 
 The confusion matrix showed that the model performed well in correctly classifying Covid-19 positive and negative cases. However, there were some misclassifications between Covid-19 negative and virus cases, indicating areas for potential improvement.
 
@@ -39,7 +39,7 @@ Possible areas of future improvement include:
 
 1. Clone the repository:
 ```
-git clone https://github.com/yourusername/Covid19-ChestXRay-Recognition.git
+git clone https://github.com/Asadxio/Covid19-ChestXRay-Recognition.git
 ```
 
 2. Install the required dependencies:
@@ -61,9 +61,9 @@ This project is shared under the [MIT License](https://opensource.org/licenses/M
 
 **Author:**
 
-- Asad
-- Contact: Aliasadcivil007@gmail.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/asad-ali-mulla-044240262/))
+- Asad Ali
+- Contact: aliasadcivil007@gmail.com
+- LinkedIn: [ LinkedIn Profile](https://www.linkedin.com/in/asad-ali-mulla-044240262/))
 
 **Acknowledgments:**
 
